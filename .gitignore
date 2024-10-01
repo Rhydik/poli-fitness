@@ -1,0 +1,17 @@
+# Virtual environments
+env/
+env3*/
+venv/
+.venv/
+.envrc
+.env
+__pypackages__/
+
+# IDEs and editors
+.idea/
+
+# Package distribution and build files
+*.egg-info/
+dist/
+/build/
+_build/
